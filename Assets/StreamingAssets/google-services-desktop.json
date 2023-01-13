@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24602024721",
+    "firebase_url": "https://unity-task-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "unity-task",
+    "storage_bucket": "unity-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24602024721:android:728262ef9bd79606114ab0",
+        "android_client_info": {
+          "package_name": "com.playxel.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24602024721-5tavdlfai9v9pu4b3uujkqoal0aj0nm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvQ4qHqHQl6y5msgk-ohODsAXNtY6OBvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24602024721-5tavdlfai9v9pu4b3uujkqoal0aj0nm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
